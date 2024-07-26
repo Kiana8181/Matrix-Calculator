@@ -79,7 +79,7 @@ The main code performs matrix operations based on user input, utilizing function
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/matrix-calculator.git
+   git clone https://github.com/Kiana8181/Matrix-Calculator.git
 
 2. Open the project in Visual Studio.
 
